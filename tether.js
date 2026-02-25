@@ -10,8 +10,8 @@ export default {
     const cfg = {
       pair: "USDTIRT",
       base: "USDT",
-      chat: "-1003619971936",
-      thread: "2",
+      chat: "***********",
+      thread: "*****",
       up: 0.1,
       down: -0.1,
       updateCooldown: 300,     // 5 minutes
